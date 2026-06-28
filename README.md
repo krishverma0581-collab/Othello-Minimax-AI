@@ -29,4 +29,4 @@ A desktop-based Othello (Reversi) game developed using Python and Tkinter.
 python gui.py
 
 ## Author
-Yashi Jaiswal
+Krish Verma
